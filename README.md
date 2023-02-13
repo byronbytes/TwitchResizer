@@ -5,5 +5,5 @@ A small tool that helps you size your twitch emotes and channel badges.
 Go to the Releases tab and install the .exe.
 
 ## FAQ
-Q: Why is it not open source?
-A: It's too small of a project to be open source, and isn't neccessary.
+Q: Where's the source code?
+A: It's currently in the `code` branch because Visual Studio is incompetent with Git, and likes to mess with my projects 🙂
