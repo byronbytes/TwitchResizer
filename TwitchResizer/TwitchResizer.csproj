@@ -6,12 +6,12 @@
     <UseWindowsForms>true</UseWindowsForms>
     <AssemblyName>TwitchResizer</AssemblyName>
     <PackageId>TwitchPictureResizer</PackageId>
-    <Authors>byronbytes / ByronVRC</Authors>
+    <Authors>byronbytes</Authors>
     <Company></Company>
-    <Copyright>(c) 2022</Copyright>
-    <AssemblyVersion>1.1.0.0</AssemblyVersion>
-    <FileVersion>1.1.0.0</FileVersion>
-    <Version>1.1.0</Version>
+    <Copyright>2022 - 2023</Copyright>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
